@@ -5,7 +5,7 @@
 
 
 
-![Selith's GitHub stats](https://github-readme-stats.vercel.app/api?username=selithrubasingha&show_icons=true&theme=tokyonight&hide_border=true)
+![Selith's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=selithrubasingha&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selithrubasingha&layout=compact&theme=tokyonight&hide_border=true)
 
