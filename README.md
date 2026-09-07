@@ -46,9 +46,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/selithrubasingha/selithrubasingha/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
-
-<br clear="both"/> <!-- This stops elements below from creeping up next to the streak box -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/selithrubasingha/selithrubasingha/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
